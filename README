@@ -1,0 +1,16 @@
+Project: CampusGuide
+Summary: Android mobile application for guided, interactive tours.
+         Specifically, we will initially focus on a small subset
+         of the Florida State University Campus.
+
+Developers:
+Ira Ray Jenkins - irarayjenkins@gmail.com
+Patrick Yount - yount@cs.fsu.edu
+Steven Musick - swm05@fsu.edu
+James Yang - luciferguys@gmail.com
+
+Namespace:
+cs.mobile.team4.campusguide
+
+Coding Conventions:
+http://www.oracle.com/technetwork/java/codeconvtoc-136057.html
